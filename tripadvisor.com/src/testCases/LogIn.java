@@ -16,7 +16,6 @@ public class LogIn {
 		driver.get("https://tripadvisor.com");
 		
 	//	System.out.println(driver.getTitle());
-		//	System.out.println(driver.getTitle());
 
 		driver.quit();
 		
