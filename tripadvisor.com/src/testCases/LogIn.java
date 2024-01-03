@@ -37,7 +37,9 @@ public class LogIn {
 			signinButton.click();
 			System.out.println("signin button was clicked");
 
-		}		
+		}	
+		
+		
 			
 	}
 
